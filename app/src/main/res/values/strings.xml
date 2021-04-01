@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="main_title">Log in</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="log_in">LOG IN</string>
+    <string name="alert_error_message">O nome ou senha não existem</string>
+    <string name="alert_empty_field">Nome ou senha vazios</string>
+    <string name="save_new_user">Save</string>
+    <string name="sign_in_title">Sign in</string>
+    <string name="name_new_user">Name</string>
+    <string name="password_new_user">Password</string>
+    <string name="new_user_success">Usuário criado com sucesso</string>
+    <string name="user_log_success">Usuário autenticado</string>
+    <string name="agenda_main_screen">Agenda</string>
+    <string name="add_item">ADD</string>
+    <string name="name_item2">Name</string>
+    <string name="address_item2">Address</string>
+    <string name="phone_item2">Phone</string>
+    <string name="type_item">Type</string>
+    <string name="name_item">Name</string>
+    <string name="address_item">Address</string>
+    <string name="phone_item">Phone</string>
+    <string name="save_item">Save</string>
+    <string-array name="phone_types">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+    </string-array>
+</resources>
